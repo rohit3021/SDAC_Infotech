@@ -14,7 +14,6 @@ A simple blog application built using **HTML**, **CSS**, **Bootstrap**, **PHP**,
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
